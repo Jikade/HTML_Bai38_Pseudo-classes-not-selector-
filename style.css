@@ -1,0 +1,4 @@
+/* Chọn các thẻ có class = "top" ngoại trừ p*/
+.top:not(p) {
+  background-color: aqua;
+}
